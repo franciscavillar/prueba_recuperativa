@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "Luisa Morales",
+        "salud": 8525020.0,
+        "afp": 1461432.0,
+        "sueldo_liquido": 12178600
+    },
+    {
+        "nombre": "Javier Torres",
+        "salud": 8611820.0,
+        "afp": 1476312.0,
+        "sueldo_liquido": 12302600
+    },
+    {
+        "nombre": "Sof\u00eda Ram\u00edrez",
+        "salud": 7728069.999999999,
+        "afp": 1324812.0,
+        "sueldo_liquido": 11040100
+    },
+    {
+        "nombre": "Mart\u00edn Guti\u00e9rrez",
+        "salud": 6325060.0,
+        "afp": 1084296.0,
+        "sueldo_liquido": 9035800
+    },
+    {
+        "nombre": "Valeria Castillo",
+        "salud": 6645660.0,
+        "afp": 1139256.0,
+        "sueldo_liquido": 9493800
+    },
+    {
+        "nombre": "Diego Vargas",
+        "salud": 7951579.999999999,
+        "afp": 1363128.0,
+        "sueldo_liquido": 11359400
+    },
+    {
+        "nombre": "Camila Ruiz",
+        "salud": 8347079.999999999,
+        "afp": 1430928.0,
+        "sueldo_liquido": 11924400
+    },
+    {
+        "nombre": "Alejandro Medina",
+        "salud": 8738030.0,
+        "afp": 1497948.0,
+        "sueldo_liquido": 12482900
+    },
+    {
+        "nombre": "Carolina Herrera",
+        "salud": 7898799.999999999,
+        "afp": 1354080.0,
+        "sueldo_liquido": 11284000
+    },
+    {
+        "nombre": "Andr\u00e9s Silva",
+        "salud": 7925609.999999999,
+        "afp": 1358676.0,
+        "sueldo_liquido": 11322300
+    },
+    {
+        "nombre": "Paula Ortiz",
+        "salud": 8047409.999999999,
+        "afp": 1379556.0,
+        "sueldo_liquido": 11496300
+    },
+    {
+        "nombre": "Gabriel Ramos",
+        "salud": 7378069.999999999,
+        "afp": 1264812.0,
+        "sueldo_liquido": 10540100
+    }
+]
